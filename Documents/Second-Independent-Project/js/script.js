@@ -6,6 +6,6 @@ if (side1 === side2 && side2 === side3){
 	alert("Equilateral: All sides are equall");
 } else if ((side1 === side2 && side2 !== side3) || (side2 === side3 && side2 !== side1) || (side3 === side1 && side3 !== side2)) {
 	alert("Isosceles: Exactly 2 sides are equal.");
-} else {
+} else
 	alert("Scalene: No sides are equal.");
 }
