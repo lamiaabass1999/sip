@@ -9,7 +9,12 @@ body {
    font-size: 45;
    font-weight: bold;
  }
-
+img {
+  align-content: center;
+  width: 50%;
+  height:auto;
+  padding-left: 250px;
+}
  h2 {
    color: purple;
    text-align: left;
@@ -32,13 +37,6 @@ li { color: MidnightBlue;
    color: MidnightBlue;
    text-align: left;
    font size: 60;
- }
- .triangle{
-
- .triangle {
-   font-family: sans-serif;
-   font-size: 45;
-   color: Blue
  }
 
  ul {
