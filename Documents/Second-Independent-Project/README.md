@@ -7,10 +7,14 @@
 * Terminal application is a command-line interface and is used to support a set of commands  is a command-line Interface.
 * Git-hub is a version control system used for tracking changes in computer files and coordinating work on those files among multiple people.
 * Atom is a Text Editor that it is used to write code.
-#Known Bugs
+# Known Bugs
 None Known
 ## Technologies Used
 In this project I used two languages; CSS, HTML and JavaScript
+# BDD
+* I created a prompt box using JavaScript where ususers would be able to input the lengths of three sides and the prompt box would alert them of the type of triangle.
+* I used form on HTML to display this function.
+* I designed my HTML page using CSS.
 ### License
 *MIT License
 
