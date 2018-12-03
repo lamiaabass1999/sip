@@ -7,7 +7,7 @@ This URL is about triangles and their properties. Using JavaScript, you will be 
 * Terminal application is a command-line interface and is used to support a set of commands  is a command-line Interface.
 * Git-hub is a version control system used for tracking changes in computer files and coordinating work on those files among multiple people.
 * Atom is a Text Editor that it is used to write code.
-#Known Bugs
+#  Known Bugs
 None Known
 ## Technologies Used
 In this project I used two languages; CSS, HTML and JavaScript
