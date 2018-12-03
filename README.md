@@ -1,8 +1,8 @@
-# Lamia's Portfolio
+# Lamia's Triangle Tracker
 #### Second Independent Project, 2/12/2018
-#### By **{Lamia Abass}**
+#### By **Lamia Abass**
 ## Description
-{This URL is about triangles and their properties. Using JavaScript, you will be able to input the lengths of three sides of the triangle and the prompt will be able to identify the type of triangle.}
+This URL is about triangles and their properties. Using JavaScript, you will be able to input the lengths of three sides of the triangle and the prompt will be able to identify the type of triangle.
 ## Setup/Installation Requirements
 * Terminal application is a command-line interface and is used to support a set of commands  is a command-line Interface.
 * Git-hub is a version control system used for tracking changes in computer files and coordinating work on those files among multiple people.
