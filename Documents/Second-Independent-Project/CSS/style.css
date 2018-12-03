@@ -2,10 +2,15 @@ body {
   text-align: left;
   background-color: lightcyan;
 }
+form {
+  font-size: 45;
+  color: MidnightBlue;
+}
 
  h1 {
    color: MidnightBlue;
    text-align: center;
+   text-decoration: underline;
    font-size: 45;
    font-weight: bold;
  }
