@@ -1,16 +1,20 @@
-# Lamia's Triangle Tracker
+# Lamia's Portfolio
 #### Second Independent Project, 2/12/2018
-#### By **Lamia Abass**
+#### By **{Lamia Abass}**
 ## Description
-This URL is about triangles and their properties. Using JavaScript, you will be able to input the lengths of three sides of the triangle and the prompt will be able to identify the type of triangle.
+{This URL is about triangles and their properties. Using JavaScript, you will be able to input the lengths of three sides of the triangle and the prompt will be able to identify the type of triangle.}
 ## Setup/Installation Requirements
 * Terminal application is a command-line interface and is used to support a set of commands  is a command-line Interface.
 * Git-hub is a version control system used for tracking changes in computer files and coordinating work on those files among multiple people.
 * Atom is a Text Editor that it is used to write code.
-#  Known Bugs
+# Known Bugs
 None Known
 ## Technologies Used
 In this project I used two languages; CSS, HTML and JavaScript
+# BDD
+* I created a prompt box using JavaScript where ususers would be able to input the lengths of three sides and the prompt box would alert them of the type of triangle.
+* I used form on HTML to display this function.
+* I designed my HTML page using CSS.
 ### License
 *MIT License
 
